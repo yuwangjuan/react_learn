@@ -1,5 +1,5 @@
-# react_learn
-react学习笔记之redux
+# react学习笔记之redux
+
 ![redux原理图](./src/images/redux.jpg)   
 
 1.createStore(创建store)
